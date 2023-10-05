@@ -1,0 +1,61 @@
+﻿body {
+    background-color: #222222;
+    color: #ffffff;
+}
+
+/* Define the color of links */
+a {
+    color: #87ceeb;
+}
+
+    a:hover, a:active {
+        color: #7f00ff;
+    }
+
+/* Define the color of headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+/* Define the color of the text in the form fields */
+input, textarea {
+    background-color: #333333;
+    border: 1px solid #444444;
+    color: #ffffff;
+}
+
+    /* Define the color of the text in the form fields when they are focused */
+    input:focus, textarea:focus {
+        background-color: #555555;
+        border: 1px solid #666666;
+        color: #ffffff;
+    }
+
+    /* Define the color of the submit button */
+    input[type="submit"] {
+        background-color: #555555;
+        border: 1px solid #666666;
+        color: #ffffff;
+    }
+
+        /* Define the color of the submit button when hovering */
+        input[type="submit"]:hover {
+            background-color: #666666;
+            border: 1px solid #777777;
+            color: #ffffff;
+        }
+
+/* Define the color of the table cells */
+table {
+    color: #ffffff;
+}
+th {
+    color: #ffffff;
+}
+tr {
+    color: #ffffff;
+}
+td {
+    color: #ffffff;
+}
+

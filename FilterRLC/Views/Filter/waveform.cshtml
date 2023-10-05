@@ -1,0 +1,208 @@
+﻿@model FilterRLC.Models.FilterParams
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title> - FilterRLC</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/FilterRLC.styles.css?v=Wot9q4Hum1Q8qqQTr0ozpZXbA8VPjzLW1xXlhTmXzl8" />
+    <link rel="stylesheet" href="/css/DarkStyle.css" />
+</head>
+<body>
+    <header>
+        <nav b-htfk0q4jky class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-htfk0q4jky class="container-fluid">
+                <a class="navbar-brand" href="/">Home</a>
+                <button b-htfk0q4jky class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-htfk0q4jky class="navbar-toggler-icon"></span>
+                </button>
+                <div b-htfk0q4jky class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-htfk0q4jky class="navbar-nav flex-grow-1">
+                        <li b-htfk0q4jky class="nav-item">
+                            <a class="nav-link text-dark" href="/Filter/FilterForm">Create a filter</a>
+                        </li>
+                        <li b-htfk0q4jky class="nav-item">
+                            <a class="nav-link text-dark" href="/Filter/ListFilters">Filter data base</a>
+                        </li>
+                        <li b-htfk0q4jky class="nav-item">
+                            <a class="nav-link text-dark" href="/Filter/MoreFilters">More info about filters</a>
+                        </li>
+                        <li b-htfk0q4jky class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Author</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-htfk0q4jky class="container">
+        <main b-htfk0q4jky role="main" class="pb-3">
+
+            <div class="container w-auto">
+                
+                <div class="text-center p-2">
+                    </div>
+                    <table class="table table-bordered table-striped table-sm">
+                        <thead>
+                            <tr>
+                                <th>Resistance 1</th>
+                                <th>Resistance 2</th>
+                                <th>Inductance</th>
+                                <th>Capacitance</th>
+                                <th>Input voltage</th>
+					            <th>Frequency min</th>
+					            <th>Frequency max</th>
+                                <th>Output voltage for lower band frequency</th>
+                                <th>Output voltage for higher band frequency</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>@Model.Resistance_1</td>
+                                <td>@Model.Resistance_2</td>
+                                <td>@Model.Inductance</td>
+                                <td>@Model.Capacitance</td>
+                                <td>@Model.U1</td>
+					            <td>@Model.Fmin</td>
+					            <td>@Model.Fmax</td>
+                                <td>@Repository.OutputVoltage(@Model,@Model.Fmin)</td>
+                                <td>@Repository.OutputVoltage(@Model,@Model.Fmax)</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+
+            
+    <div style="text-align: center;">
+            <table class="columns">
+        <tr>
+            <div class="text-center">
+                <a class="btn btn-primary" href="/Filter/ListFilters">List of Filters</a>
+            </div>
+        </tr>
+        <br>
+                    <br>
+                    <br>
+        <tr>
+            <td><div id="chart1" style="border: 1px solid #ccc"></div></td>
+            <td><div id="chart2" style="border: 1px solid #ccc"></div></td>
+        </tr>
+    </table>
+    </div>
+
+
+
+        </main>
+    </div>
+
+    <footer b-htfk0q4jky class="border-top footer text-muted">
+        <div b-htfk0q4jky class="container">
+            &copy; 2022 - FilterRLC - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+
+    <script type="text/javascript"
+            src="https://www.gstatic.com/charts/loader.js"></script>
+    <script>
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(LoadData2);
+        var data = new google.visualization.DataTable();
+        function LoadData2() {
+            $.ajax({
+                data: 0,
+                url: '/Filter/JsonData2',
+                type: 'POST',
+                dataType: 'json',
+                cache: false,
+                contentType: "application/jsonrequest; charset=utf-8",
+                error: function (xhr, status, error) {
+                    var err = eval("(" + xhr.responseText + ")");
+                    toastr.error(err.message);
+                },
+                success: function (results) {
+                    data = google.visualization.arrayToDataTable(results, false);
+                    var options = {
+                        title: 'Transmittance: Amplitude and Phase spectrum',
+                        width: 700,
+                        height: 500,
+                        series: { 0: { targetAxisIndex: 0 }, 1: { targetAxisIndex: 1 } },
+                        // Adds titles to each axis.
+                        vAxes: { 0: { title: 'Amplitude [-]' }, 1: { title: 'Phase [rad]' } },
+                        hAxis: { title: 'Frequency [Hz]' }
+
+                    }
+                    chart = new google.visualization.LineChart
+
+                        (document.getElementById('chart2')
+                        );
+                    chart.draw(data, options);
+                    alert("Results are loaded");
+
+                }
+            });
+        }
+    </script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+
+    <script type="text/javascript"
+            src="https://www.gstatic.com/charts/loader.js"></script>
+    <script>
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(LoadData1);
+        var data = new google.visualization.DataTable();
+        function LoadData1() {
+            $.ajax({
+                data: 0,
+                url: '/Filter/JsonData',
+                type: 'POST',
+                dataType: 'json',
+                cache: false,
+                contentType: "application/jsonrequest; charset=utf-8",
+                error: function (xhr, status, error) {
+                    var err = eval("(" + xhr.responseText + ")");
+                    toastr.error(err.message);
+                },
+                success: function (results) {
+                    data = google.visualization.arrayToDataTable(results, false);
+                    var options = {
+                        title: 'Current envelope',
+                        width: 700,
+                        height: 500,
+                        series: { 0: { targetAxisIndex: 0 } },
+                        // Adds titles to each axis.
+                        vAxes: { 0: { title: 'Amplitude [A]' } },
+                        hAxis: { title: 'Frequency [Hz]' }
+                       // legend: 'left'
+                    }
+                    chart = new google.visualization.LineChart
+
+                        (document.getElementById('chart1')
+                        );
+                    chart.draw(data, options);
+                    alert("Results are loaded");
+
+                }
+            });
+        }
+    </script>
+
+
+    <!-- Visual Studio Browser Link -->
+    <script type="text/javascript" src="/_vs/browserLink" async="async" id="__browserLink_initializationData" data-requestId="09377ee62cf145eebffec50988a7b2cd" data-requestMappingFromServer="false" data-connectUrl="http://localhost:61915/9c87df4a41834f1494a3de5047f9cd0c/browserLink"></script>
+    <!-- End Browser Link -->
+
+    <script src="/_framework/aspnetcore-browser-refresh.js"></script>
+</body>
+</html>

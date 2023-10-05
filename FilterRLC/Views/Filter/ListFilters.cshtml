@@ -1,0 +1,84 @@
+﻿@model IEnumerable<FilterRLC.Models.FilterParams> 
+@{
+Layout = null; 
+}
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width" />
+<title>ListFilers</title>
+<link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+<link rel="stylesheet" href="/FilterRLC.styles.css?v=Wot9q4Hum1Q8qqQTr0ozpZXbA8VPjzLW1xXlhTmXzl8" />
+<link rel="stylesheet" href="/css/DarkStyle.css" />
+
+</head>
+
+<body>
+<header>
+        <nav b-htfk0q4jky class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-htfk0q4jky class="container-fluid">
+                <a class="navbar-brand" href="/">Home</a>
+                <button b-htfk0q4jky class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-htfk0q4jky class="navbar-toggler-icon"></span>
+                </button>
+                <div b-htfk0q4jky class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-htfk0q4jky class="navbar-nav flex-grow-1">
+                        <li b-htfk0q4jky class="nav-item">
+                            <a class="nav-link text-dark" href="/Filter/FilterForm">Create a filter</a>
+                        </li>
+						<li b-htfk0q4jky class="nav-item">
+                            <a class="nav-link text-dark" href="/Filter/ListFilters">Filter data base</a>
+                        </li>
+                        <li b-htfk0q4jky class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/MoreFilters">More info about filters</a>
+                        </li>
+                        <li b-htfk0q4jky class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Author</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+<div class="text-center p-2">
+<h2>Here is the list of filters</h2>
+<table class="table table-bordered table-striped table-sm">
+<thead>
+<tr>
+<th>Resistance 1</th>
+<th>Resistance 2</th>
+<th>Inductance</th>
+<th>Capacitance</th>
+<th>Input voltage</th>
+					<th>Frequency min</th>
+					<th>Frequency max</th>
+					<th>Number of points</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (FilterRLC.Models.FilterParams filter in Model)
+				{
+					<tr>
+						<td>@filter.Resistance_1</td>
+						<td>@filter.Resistance_2</td>
+						<td>@filter.Inductance</td>
+						<td>@filter.Capacitance</td>
+						<td>@filter.U1</td>
+						<td>@filter.Fmin</td>
+						<td>@filter.Fmax</td>
+						<td>@filter.NumOfRows</td>
+						<td>
+							<a asp-action="Waveform" asp-route-id="@filter.ID">Waveform |</a>
+							<a asp-action="FilterEdit" asp-route-id="@filter.ID"> Edit |
+							</a> <a asp-action="Delete" asp-route-id="@filter.ID">Delete</a>
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+		<a class="btn btn-primary" asp-action="FilterForm">Add another filter</a>
+	</div>
+</body>
+</html>

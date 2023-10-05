@@ -1,0 +1,213 @@
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\bin\Debug\net6.0\appsettings.json
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\bin\Debug\net6.0\FilterRLC.staticwebassets.runtime.json
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\bin\Debug\net6.0\FilterRLC.exe
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\bin\Debug\net6.0\FilterRLC.deps.json
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\bin\Debug\net6.0\FilterRLC.runtimeconfig.json
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\bin\Debug\net6.0\FilterRLC.dll
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\bin\Debug\net6.0\FilterRLC.pdb
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cache
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cs
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\scopedcss\bundle\FilterRLC.styles.css
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\scopedcss\projectbundle\FilterRLC.bundle.scp.css
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.dll
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\refint\FilterRLC.dll
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.pdb
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\sem2\c_test\FilterRLC\FilterRLC\obj\Debug\net6.0\ref\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\bin\Debug\net6.0\appsettings.Development.json
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\bin\Debug\net6.0\appsettings.json
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\bin\Debug\net6.0\FilterRLC.staticwebassets.runtime.json
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\bin\Debug\net6.0\FilterRLC.exe
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\bin\Debug\net6.0\FilterRLC.deps.json
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\bin\Debug\net6.0\FilterRLC.runtimeconfig.json
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\bin\Debug\net6.0\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\bin\Debug\net6.0\FilterRLC.pdb
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.AssemblyReference.cache
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.GeneratedMSBuildEditorConfig.editorconfig
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfoInputs.cache
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfo.cs
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.CoreCompileInputs.cache
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.MvcApplicationPartsAssemblyInfo.cache
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cache
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cs
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\staticwebassets.build.json
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\staticwebassets.development.json
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\scopedcss\bundle\FilterRLC.styles.css
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\scopedcss\projectbundle\FilterRLC.bundle.scp.css
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\refint\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.pdb
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\FilterRLC.genruntimeconfig.cache
+D:\MOJE DOKUMENTY\MRB\FilterRLC\FilterRLC\obj\Debug\net6.0\ref\FilterRLC.dll
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\bin\Debug\net6.0\appsettings.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\bin\Debug\net6.0\FilterRLC.staticwebassets.runtime.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\bin\Debug\net6.0\FilterRLC.exe
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\bin\Debug\net6.0\FilterRLC.deps.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\bin\Debug\net6.0\FilterRLC.runtimeconfig.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\bin\Debug\net6.0\FilterRLC.dll
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\bin\Debug\net6.0\FilterRLC.pdb
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.AssemblyReference.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\FilterRLC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfoInputs.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfo.cs
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.CoreCompileInputs.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\FilterRLC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cs
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\scopedcss\bundle\FilterRLC.styles.css
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\scopedcss\projectbundle\FilterRLC.bundle.scp.css
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\FilterRLC.dll
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\refint\FilterRLC.dll
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\FilterRLC.pdb
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\FilterRLC.genruntimeconfig.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v2\FilterRLC\obj\Debug\net6.0\ref\FilterRLC.dll
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\appsettings.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\FilterRLC.staticwebassets.runtime.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\FilterRLC.exe
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\FilterRLC.deps.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\FilterRLC.runtimeconfig.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\FilterRLC.dll
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\FilterRLC.pdb
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.AssemblyReference.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfoInputs.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfo.cs
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.CoreCompileInputs.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cs
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\scopedcss\bundle\FilterRLC.styles.css
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\scopedcss\projectbundle\FilterRLC.bundle.scp.css
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.dll
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\refint\FilterRLC.dll
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.pdb
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.genruntimeconfig.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\ref\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\appsettings.Development.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\appsettings.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\FilterRLC.staticwebassets.runtime.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\FilterRLC.exe
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\FilterRLC.deps.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\FilterRLC.runtimeconfig.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\bin\Debug\net6.0\FilterRLC.pdb
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.AssemblyReference.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.GeneratedMSBuildEditorConfig.editorconfig
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfoInputs.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfo.cs
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.CoreCompileInputs.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.MvcApplicationPartsAssemblyInfo.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cs
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\staticwebassets.build.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\staticwebassets.development.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\scopedcss\bundle\FilterRLC.styles.css
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\scopedcss\projectbundle\FilterRLC.bundle.scp.css
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\refint\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.pdb
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\FilterRLC.genruntimeconfig.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v3\FilterRLC\obj\Debug\net6.0\ref\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\bin\Debug\net6.0\appsettings.Development.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\bin\Debug\net6.0\appsettings.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\bin\Debug\net6.0\FilterRLC.staticwebassets.runtime.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\bin\Debug\net6.0\FilterRLC.exe
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\bin\Debug\net6.0\FilterRLC.deps.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\bin\Debug\net6.0\FilterRLC.runtimeconfig.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\bin\Debug\net6.0\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\bin\Debug\net6.0\FilterRLC.pdb
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.AssemblyReference.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\FilterRLC.GeneratedMSBuildEditorConfig.editorconfig
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfoInputs.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfo.cs
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.CoreCompileInputs.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\FilterRLC.MvcApplicationPartsAssemblyInfo.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cs
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\staticwebassets.build.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\staticwebassets.development.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\scopedcss\bundle\FilterRLC.styles.css
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\scopedcss\projectbundle\FilterRLC.bundle.scp.css
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\refint\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\FilterRLC.pdb
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\FilterRLC.genruntimeconfig.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v4\FilterRLC\obj\Debug\net6.0\ref\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.AssemblyReference.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.GeneratedMSBuildEditorConfig.editorconfig
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfoInputs.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfo.cs
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.CoreCompileInputs.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.MvcApplicationPartsAssemblyInfo.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cs
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\refint\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.pdb
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\appsettings.Development.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\appsettings.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\FilterRLC.staticwebassets.runtime.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\FilterRLC.exe
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\FilterRLC.deps.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\FilterRLC.runtimeconfig.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\FilterRLC.dll
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\FilterRLC.pdb
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\staticwebassets.build.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\staticwebassets.development.json
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\scopedcss\bundle\FilterRLC.styles.css
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\scopedcss\projectbundle\FilterRLC.bundle.scp.css
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.genruntimeconfig.cache
+D:\MOJE DOKUMENTY\MRB\PAI\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\ref\FilterRLC.dll
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.AssemblyReference.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfoInputs.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.AssemblyInfo.cs
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.csproj.CoreCompileInputs.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.RazorAssemblyInfo.cs
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.dll
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\refint\FilterRLC.dll
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.pdb
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\appsettings.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\FilterRLC.staticwebassets.runtime.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\FilterRLC.exe
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\FilterRLC.deps.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\FilterRLC.runtimeconfig.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\FilterRLC.dll
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\bin\Debug\net6.0\FilterRLC.pdb
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\scopedcss\bundle\FilterRLC.styles.css
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\scopedcss\projectbundle\FilterRLC.bundle.scp.css
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\FilterRLC.genruntimeconfig.cache
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\ref\FilterRLC.dll
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\staticwebassets\msbuild.FilterRLC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\staticwebassets\msbuild.build.FilterRLC.props
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilterRLC.props
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilterRLC.props
+C:\Users\macie\Desktop\Semestr2\API\FilterRLC_v5\FilterRLC\obj\Debug\net6.0\staticwebassets.pack.json

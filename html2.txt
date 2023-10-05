@@ -1,0 +1,15 @@
+<div style="text-align: center;">
+        <table class="table table-bordered table-striped table-sm">
+            <thead>
+                <tr>
+                    <th><div  id="chart1"> </div></th>
+                    <th><div class="w-700 h-100" </div></th>
+                    <th><div  id="chart2"> </div></th>
+
+                </tr>
+            </thead>
+
+        </table>
+
+
+    </div>
